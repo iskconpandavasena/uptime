@@ -16,6 +16,14 @@ sites:
     url: https://studio.kcsoc.com
   - name: link.kcsoc.com
     url: https://link.kcsoc.com
+  - name: PS Hub
+    url: https://hub.psena.com
+  - name: PS Hub Database
+    url: https://db.hub.psena.com
+  - name: Maya PS Hub
+    url: https://maya.hub.psena.com
+  - name: Maya PS Hub Database
+    url: https://db.maya.hub.psena.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
