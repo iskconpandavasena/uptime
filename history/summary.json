@@ -133,9 +133,9 @@
     "url": "https://db.hub.psena.com",
     "icon": "https://favicons.githubusercontent.com/db.hub.psena.com",
     "slug": "ps-hub-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +144,9 @@
     "timeWeek": 808,
     "timeMonth": 808,
     "timeYear": 808,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-17": 0
+    }
   },
   {
     "name": "Maya PS Hub",
