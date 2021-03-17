@@ -4,9 +4,9 @@
     "url": "https://psena.com",
     "icon": "https://favicons.githubusercontent.com/psena.com",
     "slug": "psena-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1925,
     "timeMonth": 2028,
     "timeYear": 3587,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   },
   {
     "name": "maya.psena.com",
