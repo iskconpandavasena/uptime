@@ -4,64 +4,70 @@
     "url": "https://psena.com",
     "icon": "https://favicons.githubusercontent.com/psena.com",
     "slug": "psena-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2715,
     "timeDay": 1823,
     "timeWeek": 1770,
     "timeMonth": 1668,
     "timeYear": 2715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 3
+    }
   },
   {
     "name": "old.psena.com",
     "url": "https://old.psena.com",
     "icon": "https://favicons.githubusercontent.com/old.psena.com",
     "slug": "old-psena-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1512,
     "timeDay": 1938,
     "timeWeek": 1720,
     "timeMonth": 1604,
     "timeYear": 1512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 3
+    }
   },
   {
     "name": "alumni.psena.com",
     "url": "https://alumni.psena.com",
     "icon": "https://favicons.githubusercontent.com/alumni.psena.com",
     "slug": "alumni-psena-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 772,
     "timeDay": 978,
     "timeWeek": 911,
     "timeMonth": 868,
     "timeYear": 772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 2
+    }
   },
   {
     "name": "kcsoc.com",
     "url": "https://kcsoc.com",
     "icon": "https://favicons.githubusercontent.com/kcsoc.com",
     "slug": "kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
@@ -69,17 +75,19 @@
     "timeWeek": 579,
     "timeMonth": 547,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 2
+    }
   },
   {
     "name": "server.kcsoc.com",
     "url": "https://server.kcsoc.com",
     "icon": "https://favicons.githubusercontent.com/server.kcsoc.com",
     "slug": "server-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
@@ -87,17 +95,19 @@
     "timeWeek": 468,
     "timeMonth": 436,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 1
+    }
   },
   {
     "name": "studio.kcsoc.com",
     "url": "https://studio.kcsoc.com",
     "icon": "https://favicons.githubusercontent.com/studio.kcsoc.com",
     "slug": "studio-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
@@ -105,16 +115,18 @@
     "timeWeek": 457,
     "timeMonth": 417,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 1
+    }
   },
   {
     "name": "link.kcsoc.com",
     "url": "https://link.kcsoc.com",
     "icon": "https://favicons.githubusercontent.com/link.kcsoc.com",
     "slug": "link-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -124,6 +136,7 @@
     "timeMonth": 581,
     "timeYear": 565,
     "dailyMinutesDown": {
+      "2021-06-08": 0,
       "2021-01-13": 21
     }
   },
@@ -153,12 +166,12 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.92%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.68%",
     "time": 832,
     "timeDay": 979,
-    "timeWeek": 890,
+    "timeWeek": 898,
     "timeMonth": 873,
     "timeYear": 832,
     "dailyMinutesDown": {
