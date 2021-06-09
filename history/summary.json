@@ -6,18 +6,16 @@
     "slug": "psena-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2707,
-    "timeDay": 1600,
-    "timeWeek": 1721,
-    "timeMonth": 1659,
-    "timeYear": 2707,
-    "dailyMinutesDown": {
-      "2021-06-08": 6
-    }
+    "time": 2702,
+    "timeDay": 1610,
+    "timeWeek": 1766,
+    "timeMonth": 1671,
+    "timeYear": 2702,
+    "dailyMinutesDown": {}
   },
   {
     "name": "old.psena.com",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/old.psena.com",
     "slug": "old-psena-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1510,
-    "timeDay": 1672,
-    "timeWeek": 1681,
-    "timeMonth": 1598,
-    "timeYear": 1510,
-    "dailyMinutesDown": {
-      "2021-06-08": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1511,
+    "timeDay": 1463,
+    "timeWeek": 1697,
+    "timeMonth": 1610,
+    "timeYear": 1511,
+    "dailyMinutesDown": {}
   },
   {
     "name": "alumni.psena.com",
@@ -46,18 +42,16 @@
     "slug": "alumni-psena-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 933,
-    "timeWeek": 908,
-    "timeMonth": 869,
-    "timeYear": 773,
-    "dailyMinutesDown": {
-      "2021-06-08": 5
-    }
+    "time": 774,
+    "timeDay": 922,
+    "timeWeek": 933,
+    "timeMonth": 876,
+    "timeYear": 774,
+    "dailyMinutesDown": {}
   },
   {
     "name": "kcsoc.com",
@@ -66,18 +60,16 @@
     "slug": "kcsoc-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 528,
-    "timeWeek": 557,
-    "timeMonth": 543,
-    "timeYear": 560,
-    "dailyMinutesDown": {
-      "2021-06-08": 4
-    }
+    "time": 562,
+    "timeDay": 614,
+    "timeWeek": 609,
+    "timeMonth": 556,
+    "timeYear": 562,
+    "dailyMinutesDown": {}
   },
   {
     "name": "server.kcsoc.com",
@@ -86,18 +78,16 @@
     "slug": "server-kcsoc-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 432,
-    "timeWeek": 449,
-    "timeMonth": 432,
+    "timeDay": 398,
+    "timeWeek": 468,
+    "timeMonth": 437,
     "timeYear": 443,
-    "dailyMinutesDown": {
-      "2021-06-08": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "studio.kcsoc.com",
@@ -106,18 +96,16 @@
     "slug": "studio-kcsoc-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 403,
-    "timeWeek": 441,
-    "timeMonth": 414,
-    "timeYear": 429,
-    "dailyMinutesDown": {
-      "2021-06-08": 3
-    }
+    "time": 430,
+    "timeDay": 440,
+    "timeWeek": 469,
+    "timeMonth": 422,
+    "timeYear": 430,
+    "dailyMinutesDown": {}
   },
   {
     "name": "link.kcsoc.com",
@@ -126,17 +114,16 @@
     "slug": "link-kcsoc-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 565,
-    "timeDay": 581,
-    "timeWeek": 614,
-    "timeMonth": 578,
+    "timeDay": 570,
+    "timeWeek": 632,
+    "timeMonth": 586,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2021-06-08": 3,
       "2021-01-13": 21
     }
   },
@@ -151,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 667,
-    "timeWeek": 641,
-    "timeMonth": 591,
-    "timeYear": 593,
+    "time": 594,
+    "timeDay": 708,
+    "timeWeek": 668,
+    "timeMonth": 597,
+    "timeYear": 594,
     "dailyMinutesDown": {}
   },
   {
@@ -169,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.68%",
-    "time": 832,
-    "timeDay": 979,
-    "timeWeek": 898,
-    "timeMonth": 873,
-    "timeYear": 832,
+    "time": 833,
+    "timeDay": 984,
+    "timeWeek": 946,
+    "timeMonth": 883,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2021-06-01": 583,
       "2021-01-17": 94
@@ -190,11 +177,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 774,
-    "timeDay": 869,
-    "timeWeek": 824,
-    "timeMonth": 796,
-    "timeYear": 774,
+    "time": 775,
+    "timeDay": 875,
+    "timeWeek": 857,
+    "timeMonth": 803,
+    "timeYear": 775,
     "dailyMinutesDown": {
       "2021-02-13": 41,
       "2021-02-02": 140
@@ -211,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 804,
-    "timeDay": 950,
-    "timeWeek": 861,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "time": 805,
+    "timeDay": 937,
+    "timeWeek": 909,
+    "timeMonth": 813,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2021-02-13": 41,
       "2021-02-02": 140
