@@ -4,119 +4,131 @@
     "url": "https://psena.com",
     "icon": "https://favicons.githubusercontent.com/psena.com",
     "slug": "psena-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2579,
     "timeDay": 1840,
     "timeWeek": 1628,
     "timeMonth": 1666,
     "timeYear": 2579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-29": 5
+    }
   },
   {
     "name": "old.psena.com",
     "url": "https://old.psena.com",
     "icon": "https://favicons.githubusercontent.com/old.psena.com",
     "slug": "old-psena-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1486,
     "timeDay": 1624,
     "timeWeek": 1486,
     "timeMonth": 1499,
     "timeYear": 1486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-29": 5
+    }
   },
   {
     "name": "alumni.psena.com",
     "url": "https://alumni.psena.com",
     "icon": "https://favicons.githubusercontent.com/alumni.psena.com",
     "slug": "alumni-psena-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 783,
     "timeDay": 933,
     "timeWeek": 855,
     "timeMonth": 867,
     "timeYear": 783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-29": 4
+    }
   },
   {
     "name": "kcsoc.com",
     "url": "https://kcsoc.com",
     "icon": "https://favicons.githubusercontent.com/kcsoc.com",
     "slug": "kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 579,
     "timeDay": 807,
     "timeWeek": 713,
     "timeMonth": 665,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-29": 4
+    }
   },
   {
     "name": "server.kcsoc.com",
     "url": "https://server.kcsoc.com",
     "icon": "https://favicons.githubusercontent.com/server.kcsoc.com",
     "slug": "server-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 444,
     "timeDay": 509,
     "timeWeek": 450,
     "timeMonth": 452,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-29": 3
+    }
   },
   {
     "name": "studio.kcsoc.com",
     "url": "https://studio.kcsoc.com",
     "icon": "https://favicons.githubusercontent.com/studio.kcsoc.com",
     "slug": "studio-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 430,
     "timeDay": 472,
     "timeWeek": 421,
     "timeMonth": 436,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-29": 3
+    }
   },
   {
     "name": "link.kcsoc.com",
     "url": "https://link.kcsoc.com",
     "icon": "https://favicons.githubusercontent.com/link.kcsoc.com",
     "slug": "link-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 568,
     "timeDay": 678,
@@ -124,6 +136,7 @@
     "timeMonth": 602,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2021-06-29": 2,
       "2021-01-13": 21
     }
   },
@@ -132,10 +145,10 @@
     "url": "https://hub.psena.com",
     "icon": "https://favicons.githubusercontent.com/hub.psena.com",
     "slug": "ps-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
@@ -143,17 +156,19 @@
     "timeWeek": 628,
     "timeMonth": 628,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-29": 2
+    }
   },
   {
     "name": "PS Hub Database",
     "url": "https://db.hub.psena.com",
     "icon": "https://favicons.githubusercontent.com/db.hub.psena.com",
     "slug": "ps-hub-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.72%",
     "time": 836,
@@ -162,6 +177,7 @@
     "timeMonth": 903,
     "timeYear": 836,
     "dailyMinutesDown": {
+      "2021-06-29": 1,
       "2021-06-01": 583,
       "2021-01-17": 94
     }
@@ -171,10 +187,10 @@
     "url": "https://maya.hub.psena.com",
     "icon": "https://favicons.githubusercontent.com/maya.hub.psena.com",
     "slug": "maya-ps-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 780,
@@ -183,6 +199,7 @@
     "timeMonth": 820,
     "timeYear": 780,
     "dailyMinutesDown": {
+      "2021-06-29": 1,
       "2021-02-13": 41,
       "2021-02-02": 140
     }
@@ -192,9 +209,9 @@
     "url": "https://db.maya.hub.psena.com",
     "icon": "https://favicons.githubusercontent.com/db.maya.hub.psena.com",
     "slug": "maya-ps-hub-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -204,6 +221,7 @@
     "timeMonth": 847,
     "timeYear": 809,
     "dailyMinutesDown": {
+      "2021-06-29": 0,
       "2021-02-13": 41,
       "2021-02-02": 140
     }
