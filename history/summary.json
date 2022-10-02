@@ -2,7 +2,7 @@
   {
     "name": "psena.com",
     "url": "https://psena.com",
-    "icon": "https://favicons.githubusercontent.com/psena.com",
+    "icon": "https://icons.duckduckgo.com/ip3/psena.com.ico",
     "slug": "psena-com",
     "status": "up",
     "uptime": "99.96%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1574,
-    "timeDay": 1236,
-    "timeWeek": 1296,
-    "timeMonth": 1342,
-    "timeYear": 1552,
+    "time": 1572,
+    "timeDay": 1056,
+    "timeWeek": 1238,
+    "timeMonth": 1338,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2022-07-02": 18,
       "2022-06-30": 153,
@@ -25,7 +25,7 @@
   {
     "name": "alumni.psena.com",
     "url": "https://alumni.psena.com",
-    "icon": "https://favicons.githubusercontent.com/alumni.psena.com",
+    "icon": "https://icons.duckduckgo.com/ip3/alumni.psena.com.ico",
     "slug": "alumni-psena-com",
     "status": "up",
     "uptime": "99.98%",
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 894,
-    "timeDay": 850,
-    "timeWeek": 951,
-    "timeMonth": 966,
-    "timeYear": 887,
+    "timeDay": 828,
+    "timeWeek": 900,
+    "timeMonth": 963,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2022-05-22": 25,
       "2021-10-26": 72
@@ -46,7 +46,7 @@
   {
     "name": "kcsoc.com",
     "url": "https://kcsoc.com",
-    "icon": "https://favicons.githubusercontent.com/kcsoc.com",
+    "icon": "https://icons.duckduckgo.com/ip3/kcsoc.com.ico",
     "slug": "kcsoc-com",
     "status": "up",
     "uptime": "99.98%",
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 716,
-    "timeDay": 569,
-    "timeWeek": 633,
-    "timeMonth": 658,
+    "timeDay": 482,
+    "timeWeek": 578,
+    "timeMonth": 657,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2022-05-22": 24,
@@ -67,7 +67,7 @@
   {
     "name": "server.kcsoc.com",
     "url": "https://server.kcsoc.com",
-    "icon": "https://favicons.githubusercontent.com/server.kcsoc.com",
+    "icon": "https://icons.duckduckgo.com/ip3/server.kcsoc.com.ico",
     "slug": "server-kcsoc-com",
     "status": "up",
     "uptime": "99.99%",
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 447,
-    "timeDay": 406,
-    "timeWeek": 408,
-    "timeMonth": 412,
+    "timeDay": 331,
+    "timeWeek": 375,
+    "timeMonth": 411,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2021-10-26": 71
@@ -87,7 +87,7 @@
   {
     "name": "studio.kcsoc.com",
     "url": "https://studio.kcsoc.com",
-    "icon": "https://favicons.githubusercontent.com/studio.kcsoc.com",
+    "icon": "https://icons.duckduckgo.com/ip3/studio.kcsoc.com.ico",
     "slug": "studio-kcsoc-com",
     "status": "up",
     "uptime": "99.99%",
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 447,
-    "timeDay": 399,
-    "timeWeek": 390,
-    "timeMonth": 412,
+    "timeDay": 309,
+    "timeWeek": 364,
+    "timeMonth": 410,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2021-10-26": 71
@@ -107,7 +107,7 @@
   {
     "name": "link.kcsoc.com",
     "url": "https://link.kcsoc.com",
-    "icon": "https://favicons.githubusercontent.com/link.kcsoc.com",
+    "icon": "https://icons.duckduckgo.com/ip3/link.kcsoc.com.ico",
     "slug": "link-kcsoc-com",
     "status": "up",
     "uptime": "99.98%",
@@ -116,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 602,
-    "timeDay": 449,
-    "timeWeek": 534,
-    "timeMonth": 545,
+    "timeDay": 465,
+    "timeWeek": 499,
+    "timeMonth": 546,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2021-10-26": 70
