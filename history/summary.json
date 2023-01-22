@@ -67,18 +67,20 @@
     "url": "https://server.kcsoc.com",
     "icon": "https://icons.duckduckgo.com/ip3/server.kcsoc.com.ico",
     "slug": "server-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
+    "time": 438,
     "timeDay": 324,
     "timeWeek": 385,
     "timeMonth": 424,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-22": 0
+    }
   },
   {
     "name": "studio.kcsoc.com",
