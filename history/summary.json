@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
-    "time": 1444,
-    "timeDay": 98,
-    "timeWeek": 113,
-    "timeMonth": 262,
-    "timeYear": 1401,
+    "time": 1441,
+    "timeDay": 71,
+    "timeWeek": 109,
+    "timeMonth": 217,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2022-12-25": 15,
       "2022-07-02": 18,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 896,
-    "timeDay": 634,
-    "timeWeek": 842,
-    "timeMonth": 920,
-    "timeYear": 931,
+    "timeDay": 1138,
+    "timeWeek": 863,
+    "timeMonth": 926,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2022-05-22": 25
     }
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 703,
-    "timeDay": 502,
-    "timeWeek": 587,
-    "timeMonth": 673,
+    "timeDay": 858,
+    "timeWeek": 619,
+    "timeMonth": 679,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2022-05-22": 24
@@ -69,18 +69,16 @@
     "slug": "server-kcsoc-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 433,
-    "timeWeek": 404,
-    "timeMonth": 427,
+    "timeDay": 543,
+    "timeWeek": 420,
+    "timeMonth": 431,
     "timeYear": 432,
-    "dailyMinutesDown": {
-      "2023-01-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "studio.kcsoc.com",
@@ -94,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 288,
-    "timeWeek": 369,
-    "timeMonth": 414,
+    "timeDay": 545,
+    "timeWeek": 390,
+    "timeMonth": 418,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
@@ -112,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 392,
-    "timeWeek": 495,
-    "timeMonth": 556,
+    "timeDay": 662,
+    "timeWeek": 513,
+    "timeMonth": 558,
     "timeYear": 568,
     "dailyMinutesDown": {}
   }
