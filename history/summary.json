@@ -67,10 +67,10 @@
     "url": "https://server.kcsoc.com",
     "icon": "https://icons.duckduckgo.com/ip3/server.kcsoc.com.ico",
     "slug": "server-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
@@ -78,7 +78,9 @@
     "timeWeek": 434,
     "timeMonth": 431,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "studio.kcsoc.com",
@@ -87,9 +89,9 @@
     "slug": "studio-kcsoc-com",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 439,
     "timeDay": 404,
@@ -97,7 +99,7 @@
     "timeMonth": 417,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 16
     }
   },
   {
@@ -105,19 +107,19 @@
     "url": "https://link.kcsoc.com",
     "icon": "https://icons.duckduckgo.com/ip3/link.kcsoc.com.ico",
     "slug": "link-kcsoc-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 502,
-    "timeWeek": 523,
-    "timeMonth": 555,
-    "timeYear": 568,
+    "time": 604,
+    "timeDay": 4073,
+    "timeWeek": 1413,
+    "timeMonth": 777,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 15
     }
   }
 ]
