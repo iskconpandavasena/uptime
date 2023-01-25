@@ -85,10 +85,10 @@
     "url": "https://studio.kcsoc.com",
     "icon": "https://icons.duckduckgo.com/ip3/studio.kcsoc.com.ico",
     "slug": "studio-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
@@ -96,16 +96,18 @@
     "timeWeek": 405,
     "timeMonth": 417,
     "timeYear": 428,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "link.kcsoc.com",
     "url": "https://link.kcsoc.com",
     "icon": "https://icons.duckduckgo.com/ip3/link.kcsoc.com.ico",
     "slug": "link-kcsoc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,6 +116,8 @@
     "timeWeek": 523,
     "timeMonth": 555,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
